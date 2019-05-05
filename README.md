@@ -1,4 +1,4 @@
 # todo-app
 
-# This project can be started using
+This project can be started using
 npm start
